@@ -4,7 +4,7 @@ I am a Full Stack Developer with 5 years of experience building and maintaining 
 
 * 🌍  I'm based in Southern California
 * ✉️  You can contact me at [mauricio.macias2535@gmail.com](mailto:mauricio.macias2535@gmail.com)
-*  [Portfolio](https://theerrormaster.github.io/)
+* 💻  View my [Portfolio](https://theerrormaster.github.io/)
 
 
 <p align="left">
