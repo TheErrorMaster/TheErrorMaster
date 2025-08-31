@@ -2,8 +2,9 @@
 
 I am a Full Stack Developer with 5 years of experience building and maintaining web applications, with strong expertise in Java and Java-based technologies. Proficient in JavaScript, Node.js, React, and MongoDB, and experienced in backend development using Java and Spring Boot. Deep understanding of software development principles and Agile methodologies, with a proven ability to deliver scalable, secure, and high-performing applications. Known for strong problem-solving skills and a passion for continuous learning and staying current with the latest trends in full stack development.
 
-* 🌍  I'm based in Los Angeles, California
+* 🌍  I'm based in Southern California
 * ✉️  You can contact me at [mauricio.macias2535@gmail.com](mailto:mauricio.macias2535@gmail.com)
+*  [Portfolio](https://theerrormaster.github.io/)
 
 
 <p align="left">
